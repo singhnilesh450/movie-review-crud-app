@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.card {
+  width: 500px;
+  height: 170px;
+  border: 2px solid black;
+  border-radius: 15px;
+  margin: 10px;
+}
+
+#updateInput {
+  width: 100px;
+  height: 20px;
+  margin-bottom: 10px;
+}
